@@ -1,0 +1,45 @@
+Create an account on GitHub
+
+Installed git local software
+
+Git != GitHub
+
+Installed GitHub Desktop 
+
+Git is Version Control System
+
+Version Control System : 
+
+It is a software to keep track of changes in the files 
+and work collaborately with others
+
+
+Distributed VCS (version control system)
+
+everyone can have the entire history of the project locally (without connection),
+eventually push the changes the central repostory once done.
+
+Git Repository
+A folder to keep track of changes in your project
+
+Let's create a Git Repostory to start with
+
+There are many ways to work with Git
+We will take visual approach
+
+GitHub Desktop is a git client tool with nice graphical user to make it easy to work with git and github
+
+Create a new repository
+
+	- give a name
+	- select desktop location
+it will create a folder with that name you selected in your file system
+
+
+it has a hidden folder called .git
+and that's where all the tracking happen.
+
+Mac user: Command+Shift+.
+
+	 it will show all hidden files and folder
+	 

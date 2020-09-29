@@ -1,0 +1,65 @@
+9/28/2020 
+1 point = 4 hours 
+velocity: 6 hours per day + 10 days 
+===============
+Tell me about yourself: 
+- appritiate the time 
+- Name + Title + moths/years that you are in IT industry 
+- Main language + Testing tools
+                   - TestNG, Junit, Selenium webDriver , 
+- Perfromed / experienced testing types 
+      - manual + atu -> Front-End +BakcEnd
+      - Smoke , Regression
+- Agile env --> Agile meeting
+- Bug/build tools 
+- Personality 
+--------------------------------
+Tell me about your project? 
+- Comany name + discription 
+ - VyTrack - for XXX time(months/years)
+ - Anyvan - similar company in UK 
+ - rent truck or other vehivles 
+ - deliver , manage insurance, regitration , ot take care damages ....
+- Project - what users can do with this app? 
+  - manage customer info 
+       - create contact info 
+  - manage vehicle info  
+  - log call, event creation , calendar ...
+- role / responsibility ? 
+  - manual and auto testing
+  - created TC, Bug doc/ tickets on Jira 
+  - Agile meetings 
+  - automation + Framework(important , futuer selenium topic)
+  - Smoke + regression 
+  - 
+Github account:password : do not put special char   
+                               @#$%^&*()
+          
+----------------------------------
+Smoke : email 
+ 
+  60TC or 70TC in Smoke suite 
+  at 5AM 
+  Jenkins 
+  15~20m 
+    - Pass 
+    - Fail ? 
+        - which one is faild? 
+        - manually test failed TC 
+           - pass 
+           - Fail? 
+              - Bug ticket -->  assing Team/Tech lead 
+              - disccuess in the Stand up meeting  
+ 
+    - Open Jira --> prepare your answer for Stand-up meeting
+Test data : 
+1. Provided:  by a team , or Develoeprs
+2. Generate from dummy data website --> excell sheet 
+3. JavaFaker 
+Store data: 
+1. Excell sheet -data driven framework 
+2. config.properties 
+3. Cucumber scenario outline
+   username | password 
+    user2   | 123
+    user43  | 123
